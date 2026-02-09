@@ -1,0 +1,34 @@
+﻿@page
+@model DJ_Promo.Pages.DJs.IndexModel
+@{
+    ViewData["Title"] = "DJs";
+}
+
+<h1>DJs</h1>
+
+<p>
+    <a asp-page="CreateDJ" class="btn btn-success">Create New DJ</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Stage Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.DJs)
+        {
+            <tr>
+                <td>@item.DJID</td>
+                <td>@item.StageName</td>
+                <td>
+                    <a asp-page="./EditDJ" asp-route-id="@item.DJID" class="btn btn-primary btn-sm">Edit</a>
+                    <a asp-page="./DeleteDJ" asp-route-id="@item.DJID" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,300 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* Custom Styles for DJ Promo App */
+
+/* Global Styles */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Card hover effects */
+.card-hover:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+/* Page headers */
+.page-header {
+    border-bottom: 4px solid;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    color: #2c3e50;
+    font-weight: 700;
+}
+
+/* DJ specific colors */
+.dj-card {
+    border-left: 6px solid #3498db;
+}
+
+    .dj-card .page-header {
+        border-color: #3498db;
+    }
+
+    .dj-card .card-title {
+        color: #2980b9;
+    }
+
+/* Venue specific colors */
+.venue-card {
+    border-left: 6px solid #27ae60;
+}
+
+    .venue-card .page-header {
+        border-color: #27ae60;
+    }
+
+    .venue-card .card-title {
+        color: #229954;
+    }
+
+/* Gig specific colors */
+.gig-card {
+    border-left: 6px solid #f39c12;
+}
+
+    .gig-card .page-header {
+        border-color: #f39c12;
+    }
+
+    .gig-card .card-title {
+        color: #d68910;
+    }
+
+/* Form container styling */
+.form-container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+    .form-container .card {
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+
+    .form-container .card-body {
+        padding: 2.5rem;
+    }
+
+/* Form controls */
+.form-control, .form-select {
+    border: 2px solid #e9ecef;
+    border-radius: 8px;
+    padding: 12px 15px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+    .form-control:focus, .form-select:focus {
+        border-color: #3498db;
+        box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+    }
+
+.form-control-lg {
+    font-size: 1.1rem;
+    padding: 15px 20px;
+}
+
+/* Button styles */
+.btn {
+    border-radius: 8px;
+    font-weight: 600;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.btn-lg {
+    padding: 12px 30px;
+    font-size: 1.1rem;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #3498db, #2980b9);
+    border-color: #3498db;
+}
+
+    .btn-primary:hover {
+        background: linear-gradient(135deg, #2980b9, #1f618d);
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+    }
+
+.btn-success {
+    background: linear-gradient(135deg, #27ae60, #229954);
+    border-color: #27ae60;
+}
+
+    .btn-success:hover {
+        background: linear-gradient(135deg, #229954, #1e8449);
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(39, 174, 96, 0.4);
+    }
+
+.btn-outline-primary {
+    color: #3498db;
+    border-color: #3498db;
+}
+
+    .btn-outline-primary:hover {
+        background-color: #3498db;
+        border-color: #3498db;
+        transform: translateY(-1px);
+    }
+
+.btn-outline-danger {
+    color: #e74c3c;
+    border-color: #e74c3c;
+}
+
+    .btn-outline-danger:hover {
+        background-color: #e74c3c;
+        border-color: #e74c3c;
+        transform: translateY(-1px);
+    }
+
+.btn-outline-secondary {
+    color: #6c757d;
+    border-color: #6c757d;
+}
+
+    .btn-outline-secondary:hover {
+        background-color: #6c757d;
+        border-color: #6c757d;
+        transform: translateY(-1px);
+    }
+
+/* Table styling */
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+    .table th {
+        background: linear-gradient(135deg, #2c3e50, #34495e);
+        color: white;
+        border: none;
+        padding: 15px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .table td {
+        padding: 15px;
+        vertical-align: middle;
+        border-color: #e9ecef;
+    }
+
+/* Alert styling */
+.alert {
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.alert-info {
+    background: linear-gradient(135deg, #d6eaf8, #ebf5fb);
+    color: #2874a6;
+}
+
+/* Navigation enhancements */
+.navbar-brand {
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.navbar-dark {
+    background: linear-gradient(135deg, #2c3e50, #34495e) !important;
+}
+
+.nav-link {
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+    .nav-link:hover {
+        color: #3498db !important;
+    }
+
+/* Footer styling */
+footer {
+    margin-top: auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .form-container {
+        padding: 10px;
+    }
+
+        .form-container .card-body {
+            padding: 1.5rem;
+        }
+
+    .btn-group .btn {
+        margin-bottom: 5px;
+    }
+
+    .page-header {
+        font-size: 1.5rem;
+    }
+}
+
+/* Custom utility classes */
+.text-gradient {
+    background: linear-gradient(135deg, #3498db, #9b59b6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.shadow-custom {
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+/* Loading animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.card, .form-container .card {
+    animation: fadeIn 0.6s ease-out;
+}

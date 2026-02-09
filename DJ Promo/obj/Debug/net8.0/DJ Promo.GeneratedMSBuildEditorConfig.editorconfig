@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DJ_Promo
+build_property.RootNamespace = DJ_Promo
+build_property.ProjectDir = C:\Users\justi\source\repos\DJ Promo\DJ Promo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\justi\source\repos\DJ Promo\DJ Promo
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/CreateDJ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlREouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/CreateGig.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlR2lnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/CreateVenue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVmVudWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/DeleteDJ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlREouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/DeleteGig.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlR2lnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/DeleteVenue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlVmVudWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/DJs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREpzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/EditDJ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdERKLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/EditGig.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEdpZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/EditVenue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFZlbnVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/Gigs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2lncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/Venues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/justi/source/repos/DJ Promo/DJ Promo/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d6ec874d4h

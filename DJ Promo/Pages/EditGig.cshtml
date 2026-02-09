@@ -1,0 +1,32 @@
+﻿@page
+@model DJ_Promo.Pages.EditGigModel
+
+<h1>Edit Gig</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Gig.GigID" />
+    <div>
+        <label>DJ:</label>
+        <select asp-for="Gig.DJID" class="form-control" asp-items="Model.DJs">
+            <option value="">-- Select DJ --</option>
+        </select>
+    </div>
+    <div>
+        <label>Venue:</label>
+        <select asp-for="Gig.VenueID" class="form-control" asp-items="Model.Venues">
+            <option value="">-- Select Venue --</option>
+        </select>
+    </div>
+    <div>
+        <label>Date:</label>
+        <input asp-for="Gig.Date" type="date" class="form-control" />
+    </div>
+    <div>
+        <label>Time:</label>
+        <input asp-for="Gig.Time" type="time" class="form-control" />
+    </div>
+    <div class="mt-3">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-page="Gigs" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>

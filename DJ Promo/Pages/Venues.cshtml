@@ -1,0 +1,36 @@
+﻿@page
+@model DJ_Promo.Pages.VenuesModel
+@{
+    ViewData["Title"] = "Venues";
+}
+
+<h1>Venues</h1>
+
+<p>
+    <a asp-page="CreateVenue" class="btn btn-success">Create New Venue</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Venues)
+        {
+            <tr>
+                <td>@item.VenueID</td>
+                <td>@item.Name</td>
+                <td>@item.Address</td>
+                <td>
+                    <a asp-page="./EditVenue" asp-route-id="@item.VenueID" class="btn btn-primary btn-sm">Edit</a>
+                    <a asp-page="./DeleteVenue" asp-route-id="@item.VenueID" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

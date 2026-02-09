@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\justi\\source\\repos\\DJ Promo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\models\\gig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\models\\gig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\models\\dj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\models\\dj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\pages\\djs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\pages\\djs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\pages\\editgig.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\pages\\editgig.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\pages\\editgig.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\pages\\editgig.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\pages\\editvenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\pages\\editvenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|c:\\users\\justi\\source\\repos\\dj promo\\dj promo\\pages\\editvenue.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2928E11C-6AB8-455C-9CD5-5039D3CE8640}|DJ Promo\\DJ Promo.csproj|solutionrelative:dj promo\\pages\\editvenue.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DJ Promo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DJ Promo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:57:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Program.cs",
+              "RelativeDocumentMoniker": "DJ Promo\\Program.cs",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Program.cs",
+              "RelativeToolTip": "DJ Promo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:54:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\appsettings.json",
+              "RelativeDocumentMoniker": "DJ Promo\\appsettings.json",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\appsettings.json",
+              "RelativeToolTip": "DJ Promo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T00:52:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "DJ Promo\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Models\\Venue.cs",
+              "RelativeToolTip": "DJ Promo\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:39:47.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gig.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Models\\Gig.cs",
+              "RelativeDocumentMoniker": "DJ Promo\\Models\\Gig.cs",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Models\\Gig.cs",
+              "RelativeToolTip": "DJ Promo\\Models\\Gig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:39:46.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DJ Promo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DJ Promo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T11:03:59.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "DJ Promo\\wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "DJ Promo\\wwwroot\\css\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-10T11:02:40.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DJs.cshtml",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\DJs.cshtml",
+              "RelativeDocumentMoniker": "DJ Promo\\Pages\\DJs.cshtml",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\DJs.cshtml",
+              "RelativeToolTip": "DJ Promo\\Pages\\DJs.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T10:43:21.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DJ Promo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DJ Promo\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAACQBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-10T10:38:54.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DJ Promo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DJ Promo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T10:38:15.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditVenue.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditVenue.cshtml.cs",
+              "RelativeDocumentMoniker": "DJ Promo\\Pages\\EditVenue.cshtml.cs",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditVenue.cshtml.cs",
+              "RelativeToolTip": "DJ Promo\\Pages\\EditVenue.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:20:35.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditVenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditVenue.cshtml",
+              "RelativeDocumentMoniker": "DJ Promo\\Pages\\EditVenue.cshtml",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditVenue.cshtml",
+              "RelativeToolTip": "DJ Promo\\Pages\\EditVenue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T10:20:33.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditGig.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditGig.cshtml.cs",
+              "RelativeDocumentMoniker": "DJ Promo\\Pages\\EditGig.cshtml.cs",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditGig.cshtml.cs",
+              "RelativeToolTip": "DJ Promo\\Pages\\EditGig.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:20:31.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditGig.cshtml",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditGig.cshtml",
+              "RelativeDocumentMoniker": "DJ Promo\\Pages\\EditGig.cshtml",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Pages\\EditGig.cshtml",
+              "RelativeToolTip": "DJ Promo\\Pages\\EditGig.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T10:20:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DJ.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Models\\DJ.cs",
+              "RelativeDocumentMoniker": "DJ Promo\\Models\\DJ.cs",
+              "ToolTip": "C:\\Users\\justi\\source\\repos\\DJ Promo\\DJ Promo\\Models\\DJ.cs",
+              "RelativeToolTip": "DJ Promo\\Models\\DJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:41:47.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

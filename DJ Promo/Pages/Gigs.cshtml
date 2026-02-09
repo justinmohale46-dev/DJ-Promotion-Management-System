@@ -1,0 +1,38 @@
+﻿@page
+@model DJ_Promo.Pages.GigsModel
+@{
+    ViewData["Title"] = "Gigs";
+}
+
+<h1>Gigs</h1>
+
+<p>
+    <a asp-page="CreateGig" class="btn btn-success">Create New Gig</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>DJ</th>
+            <th>Venue</th>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Gigs)
+        {
+            <tr>
+                <td>@item.DJ.StageName</td>
+                <td>@item.Venue.Name</td>
+                <td>@item.Date.ToString("MMM dd, yyyy")</td>
+                <td>@item.Time.ToString(@"hh\:mm")</td>
+                <td>
+                    <a asp-page="./EditGig" asp-route-id="@item.GigID" class="btn btn-primary btn-sm">Edit</a>
+                    <a asp-page="./DeleteGig" asp-route-id="@item.GigID" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

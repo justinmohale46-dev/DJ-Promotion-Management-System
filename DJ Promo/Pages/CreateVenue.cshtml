@@ -1,0 +1,19 @@
+﻿@page
+@model DJ_Promo.Pages.CreateVenueModel
+
+<h1>Create Venue</h1>
+
+<form method="post">
+    <div>
+        <label>Name:</label>
+        <input asp-for="Venue.Name" class="form-control" />
+    </div>
+    <div>
+        <label>Address:</label>
+        <input asp-for="Venue.Address" class="form-control" />
+    </div>
+    <div class="mt-3">
+        <input type="submit" value="Create" class="btn btn-primary" />
+        <a asp-page="Venues" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>
